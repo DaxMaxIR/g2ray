@@ -1,5 +1,5 @@
 only works in places where you can open github codespaces
-
+با اینترنت ایرانسل کار نکرد بخش codespaces باز نشه کار نمیکنه.
 ## setup
 1. fork the repo
 2. click the green "Code" button above, go to the "Codespaces" tab, and click "Create codespace on main."
